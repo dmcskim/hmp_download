@@ -10,8 +10,8 @@ License: MIT
 Python dependencies
 ------
 Please ensure the following Python packages are installed via ``pip``:
-- `Numpy <https://www.numpy.org>
-- `Pandas <https://pandas.pydata.org>
-- `wget <https://bitbucket.org/techtonik/python-wget/>
+- Numpy <https://www.numpy.org>
+- Pandas <https://pandas.pydata.org>
+- wget <https://bitbucket.org/techtonik/python-wget/>
 
 
